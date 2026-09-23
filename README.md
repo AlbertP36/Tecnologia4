@@ -6,8 +6,8 @@
 
 |  |  | 3 - Neumática | 4 - Teleco Games | 5 - ODS |
 
-| 1 - Diseño | 2 - Electrónica básica | 3 - Neumática |
+| 1 - Diseño | 2 - Electrónica básica | 3 - Neumática | 4 - Teleco Games | 5 - ODS |
 | :--- | :---: | ---: |
 | Texto | Texto | Texto |
-| 123 | 456 | 789 |
+
 
