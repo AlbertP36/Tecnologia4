@@ -4,7 +4,10 @@
 
 # Hola soy Alberto Piñar , este es mi cuaderno de ingeniería en la asignatura de Tecnologia en 4º de la ESO. Aquí voy a explicar mis proyectos.
 
-| 1 - Diseño | 2 - Electrónica básica | 3 - Neumática | 4 - Teleco Games | 5 - ODS |
+|  |  | 3 - Neumática | 4 - Teleco Games | 5 - ODS |
 
-
+| 1 - Diseño | 2 - Electrónica básica | 3 - Neumática |
+| :--- | :---: | ---: |
+| Texto | Texto | Texto |
+| 123 | 456 | 789 |
 
