@@ -1,4 +1,8 @@
 #  Proyecto mapa Jaén : 
+
+<img width="1137" height="641" alt="image" src="https://github.com/user-attachments/assets/ce81ee53-2adf-4c69-b828-f0e22f88cf2f" />
+
+
  Mi enfoque en este proyecto es la simpleza y el bajo precio.
  Mi idea de diseño para el proyecto es ponerlo encima de una mesa/as en la entrada al instituto,es barato y eficaz, pero esto seria algo inseguro y simple ya que 
  el proyecto estaria expuesto a personas con malas intenciones, asi que mi solucion es :
