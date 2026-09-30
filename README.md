@@ -8,5 +8,5 @@
 
 | 1 - Diseño | 2 - Electrónica básica | 3 - Neumática | 4 - Teleco Games | 5 - ODS |
 | :--- | :---: | :---: | :---: | ---: |
-| https://lix.li/Kjcdc | https://lix.li/K6H58T | https://lix.li/G8E7g | https://lix.li/HkE5T | https://lix.li/TI0VH |
+| https://lix.li/Kjcdc | https://lix.li/IcyRE | https://lix.li/G8E7g | https://lix.li/HkE5T | https://lix.li/TI0VH |
 
