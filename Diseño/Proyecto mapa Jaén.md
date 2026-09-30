@@ -16,7 +16,7 @@
 
 # Idea de Pareja : Dani y Alberto
 
-
+Vamos a tomar parte de la idea de Dani ya que vemos la idea mas atractiva y retadora , colgando el mapa , la ubicación va a ser encima del corcho cerca de consejería , es un lugar visible y atractivo, no hace un calor excesivo ni le da el sol además suele haber vigilancia , como inconveniente veo que para salir al recreo muchos niños pasan por ahí y puede
 
 
 
