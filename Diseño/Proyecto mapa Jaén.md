@@ -25,7 +25,7 @@ Vamos a tomar parte de la idea de Dani, principalmente ya que vemos la idea mas 
 
 # -Método de sujecion.
 
-Para la parte mas importante
+Para la parte mas importante y técnicamente difícil  , como sujetarlo , hemos pensado en esta solución ,
 
 
  
