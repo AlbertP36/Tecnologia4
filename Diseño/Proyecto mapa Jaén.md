@@ -11,8 +11,9 @@
 
  Si esta seguridad no es suficiente se puede poner un "vitrina" o  tapadera de metacrilato transparente y solido que se pueda quitar y poner para asegurarse de que no hay daños esto elevaría los costes solo la vitrina son aproximadamente 1000€. 
 
- Sin embargo esto puede tener algunos inconvenientes como si el nivel para hacer una cámara es demasiado para los alumnos , el coste de los materiales que aunque sea permisible existe, puede ser que los alumnos de robótica ya estén ocupados y no puedan hacer la cámara, necesita algo mas de manteniendo.
- Pero yo creo que es viable si se lleva a cabo.
+ Sin embargo esto puede tener algunos inconvenientes como si el nivel para hacer una cámara es demasiado para los alumnos , el coste de los materiales que aunque sea permisible existe, puede ser que los alumnos de robótica ya estén ocupados y no puedan hacer la cámara, necesita algo mas de manteniendo, además las temperaturas en la entrada son mas altas y dan los rayos del sol directamente, esto puede dañar el mapa .
+
+Pero yo creo que es viable si se lleva a cabo.
 
 # Idea de Pareja : Dani y Alberto.
 
@@ -20,9 +21,11 @@
 
 # -Aspectos generales.
 
-Vamos a tomar parte de la idea de Dani, principalmente ya que vemos la idea mas atractiva retadora y en general mejor , queremos sujetar el mapa en la pared para ello lo explicaremos mas abajo . La ubicación va a ser encima del corcho cerca de consejería , es un lugar visible y atractivo, no hace un calor excesivo ni le da el sol además suele haber vigilancia . No estamos seguros si hay una cámara donde se vea el mapa por seguridad pero si no la hay y las circunstancias lo permiten se puede volver a la idea de la cámara de Alberto ya que , como inconveniente vemos que para salir al recreo muchos niños pasan por ahí y pueden dañar sin querer ( o queriendo ) el mapa , asique hay que ponerlo lo mas alto posible para que no lo puedan alcanzar fácilmente pero los adultos si puedan manipularlo para mantenimiento o cambiar las pilas .
+Vamos a tomar parte de la idea de Dani, principalmente ya que vemos la idea mas atractiva para la asignatura mas estetica y en general mejor , queremos sujetar el mapa en la pared para ello lo explicaremos mas abajo . La ubicación va a ser encima del corcho cerca de consejería , es un lugar visible y atractivo, no hace un calor excesivo ni le da el sol además suele haber vigilancia . No estamos seguros si hay una cámara donde se vea el mapa por seguridad pero si no la hay y las circunstancias lo permiten se puede volver a la idea de la cámara de Alberto ya que , como inconveniente vemos que para salir al recreo muchos niños pasan por ahí y pueden dañar sin querer ( o queriendo ) el mapa , asique hay que ponerlo lo mas alto posible para que no lo puedan alcanzar fácilmente pero los adultos si puedan manipularlo para mantenimiento o cambiar las pilas , no sabemos si pasan tuberías o cableado pero parece que no van a afectar.
 
 # -Método de sujecion.
+
+Para la parte mas importante
 
 
  
