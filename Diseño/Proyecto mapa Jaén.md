@@ -2,7 +2,7 @@
 
 <img width="1137" height="641" alt="image" src="https://github.com/user-attachments/assets/ce81ee53-2adf-4c69-b828-f0e22f88cf2f" />
 
-# Mi Idea
+# Mi Idea.
 
  Mi enfoque en este proyecto es la simpleza y el bajo precio (Mas o menos).
  Mi idea de diseño para el proyecto es poner el tablero atornillado encima de una mesa/as en la entrada al instituto, es barato y sencillo, pero esto seria algo inseguro y simple ya que el proyecto estaría expuesto a personas con malas intenciones, así que mi solución es :
@@ -14,11 +14,15 @@
  Sin embargo esto puede tener algunos inconvenientes como si el nivel para hacer una cámara es demasiado para los alumnos , el coste de los materiales que aunque sea permisible existe, puede ser que los alumnos de robótica ya estén ocupados y no puedan hacer la cámara, necesita algo mas de manteniendo.
  Pero yo creo que es viable si se lleva a cabo.
 
-# Idea de Pareja : Dani y Alberto
+# Idea de Pareja : Dani y Alberto.
 
 <img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/a8c75304-ce60-4978-a699-cf97daae660d" />
 
-Vamos a tomar parte de la idea de Dani principalmente ya que vemos la idea mas atractiva , retadora y en general mejor , queremos sujetar el mapa en la pared , la ubicación va a ser encima del corcho cerca de consejería , es un lugar visible y atractivo, no hace un calor excesivo ni le da el sol además suele haber vigilancia (No estamos seguros si hay una cámara donde se vea el mapa por seguridad pero si no la hay y las circunstancias lo permiten se puede volver a la idea de la cámara de Alberto ya que) , como inconveniente veo que para salir al recreo muchos niños pasan por ahí y pueden dañar sin querer ( o queriendo ) el mapa , asique hay que ponerlo lo mas alto posible para que no lo puedan alcanzar fácilmente pero los adultos si puedan manipularlo 
+# -Aspectos generales.
+
+Vamos a tomar parte de la idea de Dani, principalmente ya que vemos la idea mas atractiva retadora y en general mejor , queremos sujetar el mapa en la pared para ello lo explicaremos mas abajo . La ubicación va a ser encima del corcho cerca de consejería , es un lugar visible y atractivo, no hace un calor excesivo ni le da el sol además suele haber vigilancia . No estamos seguros si hay una cámara donde se vea el mapa por seguridad pero si no la hay y las circunstancias lo permiten se puede volver a la idea de la cámara de Alberto ya que , como inconveniente vemos que para salir al recreo muchos niños pasan por ahí y pueden dañar sin querer ( o queriendo ) el mapa , asique hay que ponerlo lo mas alto posible para que no lo puedan alcanzar fácilmente pero los adultos si puedan manipularlo para mantenimiento o cambiar las pilas .
+
+# -Método de sujecion.
 
 
  
