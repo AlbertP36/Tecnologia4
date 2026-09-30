@@ -8,5 +8,5 @@
 
 | 1 - Diseño | 2 - Electrónica básica | 3 - Neumática | 4 - Teleco Games | 5 - ODS |
 | :--- | :---: | :---: | :---: | ---: |
-| https://github.com/AlbertP36/Tecnologia4/tree/main/Dise%C3%B1o | https://github.com/AlbertP36/Tecnologia4/tree/main/Electronica%20Basica | https://github.com/AlbertP36/Tecnologia4/tree/main/Neumatica | https://github.com/AlbertP36/Tecnologia4/tree/main/TelecoGames | https://github.com/AlbertP36/Tecnologia4/tree/main/ODS |
+| https://lix.li/Kjcdc | https://lix.li/K6H58T | https://lix.li/G8E7g | https://lix.li/HkE5T | https://lix.li/TI0VH |
 
