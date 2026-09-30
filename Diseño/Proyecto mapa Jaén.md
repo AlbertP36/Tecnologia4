@@ -16,10 +16,12 @@
 
 # Idea de Pareja : Dani y Alberto
 
-Vamos a tomar parte de la idea de Dani ya que vemos la idea mas atractiva y retadora , colgando el mapa , la ubicación va a ser encima del corcho cerca de consejería , es un lugar visible y atractivo, no hace un calor excesivo ni le da el sol además suele haber vigilancia , como inconveniente veo que para salir al recreo muchos niños pasan por ahí y puede
+<img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/a8c75304-ce60-4978-a699-cf97daae660d" />
+
+Vamos a tomar parte de la idea de Dani principalmente ya que vemos la idea mas atractiva , retadora y en general mejor , queremos sujetar el mapa en la pared , la ubicación va a ser encima del corcho cerca de consejería , es un lugar visible y atractivo, no hace un calor excesivo ni le da el sol además suele haber vigilancia (No estamos seguros si hay una cámara donde se vea el mapa por seguridad pero si no la hay y las circunstancias lo permiten se puede volver a la idea de la cámara de Alberto ya que) , como inconveniente veo que para salir al recreo muchos niños pasan por ahí y pueden dañar sin querer ( o queriendo ) el mapa , asique hay que ponerlo lo mas alto posible para que no lo puedan alcanzar fácilmente pero los adultos si puedan manipularlo 
 
 
-
+ 
 
 
 
