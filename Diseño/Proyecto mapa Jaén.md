@@ -2,6 +2,8 @@
 
 <img width="1137" height="641" alt="image" src="https://github.com/user-attachments/assets/ce81ee53-2adf-4c69-b828-f0e22f88cf2f" />
 
+# Las dimensiones del mapa son : Ancho 162 cm , Largo 96 cm.
+
 # Mi Idea.
 
  Mi enfoque en este proyecto es la simpleza y el bajo precio (Mas o menos).
@@ -25,7 +27,7 @@ Vamos a tomar parte de la idea de Dani, principalmente ya que vemos la idea mas 
 
 # -Método de sujecion.
 
-Para la parte mas importante y técnicamente difícil  , como sujetarlo , hemos pensado en esta solución ,
+Para la parte mas importante y técnicamente difícil  , como sujetarlo , hemos pensado en esta solución , A parte estos son los materiales que vamos a usar :Listones de madera cortados de forma que se haga el contorno de el mapa de Jaén para el marco , aproximadamente 6 los tornillos y las herramientas para esto. Una tabla recortada a medida para adaptarse al contorno de los listones .
 
 
  
