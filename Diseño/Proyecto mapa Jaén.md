@@ -27,7 +27,7 @@ Vamos a tomar parte de la idea de Dani, principalmente ya que vemos la idea mas 
 
 # -Método de sujecion.
 
-Para la parte mas importante y técnicamente difícil  , como sujetarlo , hemos pensado en esta solución , A parte estos son los materiales que vamos a usar :Listones de madera cortados de forma que se haga el contorno de el mapa de Jaén para el marco , aproximadamente 6 los tornillos y las herramientas para esto. Una tabla recortada a medida para adaptarse al contorno de los listones .
+Para la parte mas importante y técnicamente difícil , como sujetarlo , hemos pensado en esta solución : Vamos a usar el sistema de listón francés , este sistema es fácil y eficaz va a poder sujetar el mapa y su estructura poniendo un listón con un corte en 45º grados anclado con tacos en la pared y otro listón con un corte igual pero hacia abajo así no se puede caer la tabla    , A parte estos son los materiales y el procedimiento que vamos a usar : Listones de madera cortados de forma que se haga el contorno de el mapa de Jaén para el marco , aproximadamente 6 , los tornillos necesarios y las herramientas para esto. Una tabla recortada a medida para adaptarse al contorno de los listones, Los listones transversales con cortes para la sujeción y todo lo necesario como alcayatas y tacos .
 
 
  
