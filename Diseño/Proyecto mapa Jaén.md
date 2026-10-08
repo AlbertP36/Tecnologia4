@@ -21,17 +21,21 @@ Pero yo creo que es viable si se lleva a cabo.
 
 <img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/a8c75304-ce60-4978-a699-cf97daae660d" />
 
-# -Aspectos generales.
+# Aspectos generales.
 
 Vamos a tomar parte de la idea de Dani, principalmente ya que vemos la idea mas atractiva para la asignatura mas estetica y en general mejor , queremos sujetar el mapa en la pared para ello lo explicaremos mas abajo . La ubicación va a ser encima del corcho cerca de consejería , es un lugar visible y atractivo, no hace un calor excesivo ni le da el sol además suele haber vigilancia . No estamos seguros si hay una cámara donde se vea el mapa por seguridad pero si no la hay y las circunstancias lo permiten se puede volver a la idea de la cámara de Alberto ya que , como inconveniente vemos que para salir al recreo muchos niños pasan por ahí y pueden dañar sin querer ( o queriendo ) el mapa , asique hay que ponerlo lo mas alto posible para que no lo puedan alcanzar fácilmente pero los adultos si puedan manipularlo para mantenimiento o cambiar las pilas , no sabemos si pasan tuberías o cableado pero parece que no van a afectar.
 
-# -Método de sujecion.
+# Método de sujecion.
 
 Para la parte mas importante y técnicamente difícil , como sujetarlo , hemos pensado en esta solución : Vamos a usar el sistema de listón francés , este sistema es fácil y eficaz va a poder sujetar el mapa y su estructura poniendo un listón con un corte en 45º grados anclado con tacos en la pared y otro listón con un corte igual pero hacia abajo así no se puede caer la tabla    , A parte estos son los materiales y el procedimiento que vamos a usar : Listones de madera cortados de forma que se haga el contorno de el mapa de Jaén para el marco , aproximadamente 6 , los tornillos necesarios y las herramientas para esto. Una tabla recortada a medida para adaptarse al contorno de los listones, Los listones transversales con cortes para la sujeción y todo lo necesario como alcayatas y tacos .
 
+# Idea Final .
 
+Al final entre todos hemos decidido lo siguiente : Para la ubicación vamos a usar el rincón Erasmus cerca de la entrada , este lugar es muy visible bastante seguro y ya que las conserjes están cerca y hay una vitrina que no deja acercarse , para ponerlo ahí vamos a tener  que mover algunos corchos y carteles , para sujetarlo vamos a hacer un tablero con unos soportes en forma de "U" y "S" para anclarlo pero poder sacarlo, el tablero va atornillado a la pared . Esta idea es la mejor entre todos
+
+# Método de sujecion.
  
-
+Para sujetar el mapa vamos a hacer un soporte en "U" (en mi caso) con estas medidas :  De largo la pieza tiene que tener 
 
 
 
