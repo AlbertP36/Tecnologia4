@@ -35,7 +35,7 @@ Al final entre todos hemos decidido lo siguiente : Para la ubicación vamos a us
 
 # Método de sujecion.
  
-Para sujetar el mapa vamos a hacer un soporte en "U" (en mi caso) con estas medidas :  De largo la pieza tiene que tener 
+Para sujetar el mapa vamos a hacer un soporte en "U" (en mi caso) con estas medidas :  De largo la pieza tiene que tener 125 de largo.
 
 
 
