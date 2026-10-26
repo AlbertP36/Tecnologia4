@@ -41,7 +41,7 @@ Al final entre todos hemos decidido lo siguiente : Para la ubicación vamos a us
 <img width="696" height="433" alt="image" src="https://github.com/user-attachments/assets/a4ca2ccd-1b30-4d93-aa61-41b3486f51ac" />
 
  
-Para sujetar el mapa vamos a hacer un soporte en "U" (en mi caso) con estas medidas :  De largo la pieza tiene que tener 125 de largo.
+Para sujetar el mapa vamos a hacer un soporte en "U" (en mi caso) con estas medidas :  De largo la pieza tiene que tener 125 de largo y tener dos agujeros de 3 mm para los tornillos.
 
 
 
