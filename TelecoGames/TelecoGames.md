@@ -12,7 +12,7 @@ Para participar en este evento esta es mi idea personal : Una Maceta de Auto rie
 
 Para realizar esta idea se usara un sistema con u
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/51d66405-2bd8-4410-98cd-189f52258f8b" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/51d66405-2bd8-4410-98cd-189f52258f8b" />
 
 
 # Idea Grupal
