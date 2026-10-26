@@ -12,7 +12,8 @@ Para participar en este evento esta es mi idea personal : Una Maceta de Auto rie
 
 Para realizar esta idea se usara un sistema con una placa arduino que controlara todo y proporciona energía . La maceta que puede tener un deposito de agua o no si no lo tiene el deposito va a parte . Un sensor de humedad que mide si la tierra esta seca o no para regar .    La bomba de agua y el tubo para llevar el agua del deposito a la maceta . Luces LED según el estado y el resto de componentes básicos (Cables, resistencias , protoboard).Presupuesto aproximado : Maceta y depósito 5 € . Sensor de humedad 4 € . Arduino 10 € . Bomba de agua 5 €. Cables, LED , alimentación etc 6-12 € . Total aproximado 35 €
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/51d66405-2bd8-4410-98cd-189f52258f8b" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e90d174c-3db3-4766-a2a4-79e618014044" />
+
 
 
 
