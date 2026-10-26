@@ -31,8 +31,15 @@ Para la parte mas importante y técnicamente difícil , como sujetarlo , hemos p
 
 # Idea Final .
 
+<img width="289" height="641" alt="image" src="https://github.com/user-attachments/assets/c8b7bf83-074a-48c9-ba6f-752e2079c9da" />
+
+
 Al final entre todos hemos decidido lo siguiente : Para la ubicación vamos a usar el rincón Erasmus cerca de la entrada , este lugar es muy visible bastante seguro y ya que las conserjes están cerca y hay una vitrina que no deja acercarse , para ponerlo ahí vamos a tener  que mover algunos corchos y carteles , para sujetarlo vamos a hacer un tablero con unos soportes en forma de "U" y "S" para anclarlo pero poder sacarlo, el tablero va atornillado a la pared . Esta idea es la mejor entre todas.
+
 # Método de sujecion.
+
+<img width="696" height="433" alt="image" src="https://github.com/user-attachments/assets/a4ca2ccd-1b30-4d93-aa61-41b3486f51ac" />
+
  
 Para sujetar el mapa vamos a hacer un soporte en "U" (en mi caso) con estas medidas :  De largo la pieza tiene que tener 125 de largo.
 
