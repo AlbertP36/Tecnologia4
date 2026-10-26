@@ -2,7 +2,7 @@
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e6477ee2-3aa0-44ce-98fd-af80192ccb68" />
 
-(Explicacion)
+Los TelecoGames o la Olimpiada Nacional de Telecomunicaciones son una competición académica y tecnológica dirigida a estudiantes de ESO, Bachillerato y FP en España. Los participantes en equipo deben desarrollar un prototipo o proyecto basado en tecnología con sensores, robótica o programación que resuelva un problema real alineado con los ODS de la ONU. Cada edición suele centrarse en un ODS específico pero parece que no hay que centrarse en eso en cuanto yo se.
 
 # Idea Individual
 
@@ -13,9 +13,6 @@ Para participar en este evento esta es mi idea personal : Una Maceta de Auto rie
 Para realizar esta idea se usara un sistema con una placa arduino que controlara todo y proporciona energía . La maceta que puede tener un deposito de agua o no si no lo tiene el deposito va a parte . Un sensor de humedad que mide si la tierra esta seca o no para regar .    La bomba de agua y el tubo para llevar el agua del deposito a la maceta . Luces LED según el estado y el resto de componentes básicos (Cables, resistencias , protoboard).Presupuesto aproximado : Maceta y depósito 5 € . Sensor de humedad 4 € . Arduino 10 € . Bomba de agua 5 €. Cables, LED , alimentación etc 6-12 € . Total aproximado 35 €
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e90d174c-3db3-4766-a2a4-79e618014044" /> (Foto hecha por ChatGpt)
-
-
-
 
 # Idea Grupal
 
