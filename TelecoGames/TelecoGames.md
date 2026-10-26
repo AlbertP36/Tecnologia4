@@ -6,7 +6,7 @@
 
 # Idea Individual
 
-Para participar en este evento esta es mi idea personal : Una Maceta de Auto riego , esta idea viene de el problema de la gente que olvida regar sus macetas y esta idea podrá darle una vida mejor a las plantas y ayudar a los humanos con esta tarea , con esta idea viene cumple los objetivos de los ODS : 2 , 3 , 6 , 13 y 15 a lo máximo.<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/2339343d-6651-4c00-b05f-6abbfbe53fea" />
+Para participar en este evento esta es mi idea personal : Una Maceta de Auto riego , esta idea viene de el problema de la gente que olvida regar sus macetas y esta idea podrá darle una vida mejor a las plantas y ayudar a los humanos con esta tarea , con esta idea viene cumple los objetivos de los ODS : 2 , 3 , 6 , 13 y 15 a lo máximo.<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/2339343d-6651-4c00-b05f-6abbfbe53fea" />
 
 Para realizar esta idea se usara un sistema con u
 
