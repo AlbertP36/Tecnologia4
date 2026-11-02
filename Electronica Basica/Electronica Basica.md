@@ -26,5 +26,7 @@ El LDR es un componente electrónico que aumenta o disminuye la resistencia seg�
 
 # Potenciometro
 
+El potenciómetro es un componente electrónico que permite aumentar o disminuir la resistencia eléctrica de forma manual mediante un mando giratorio o deslizante. Funciona utilizando una pista de material resistivo y un contacto móvil llamado cursor, que se desplaza sobre ella. Al girar o mover el cursor, cambia la longitud de la pista resistiva por la que circula la corriente, modificando así el valor de la resistencia eléctrica. Su símbolo en un diagrama es el de una resistencia con una flecha diagonal que apunta hacia ella, representando el cursor móvil. Los potenciómetros se pueden usar, por ejemplo, para regular el volumen de un altavoz, controlar la intensidad de una luz o ajustar la velocidad de un motor.
 
+<img width="600" height="451" alt="image" src="https://github.com/user-attachments/assets/d9264b44-2675-4628-9eb4-cbac65190e65" />
 
