@@ -30,3 +30,8 @@ El potenciómetro es un componente electrónico que permite aumentar o disminuir
 
 <img width="600" height="451" alt="image" src="https://github.com/user-attachments/assets/d9264b44-2675-4628-9eb4-cbac65190e65" />
 
+# Condensador 
+
+El condensador es un componente electrónico que almacena energía eléctrica en forma de campo eléctrico y puede liberarla cuando sea necesario. Está formado por dos placas metálicas conductoras separadas por un material aislante llamado dieléctrico. Cuando se conecta a una fuente de alimentación, una de las placas acumula cargas positivas y la otra cargas negativas, creando una diferencia de potencial entre ellas. Su capacidad para almacenar carga se mide en faradios (F). Su símbolo en un diagrama es el de dos líneas paralelas separadas entre sí. Los condensadores se pueden usar, por ejemplo, para almacenar energía temporalmente, estabilizar la tensión de un circuito o ayudar al funcionamiento de motores eléctricos.
+
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/65ed7001-51c3-4aba-8d40-f7dff5add574" />
