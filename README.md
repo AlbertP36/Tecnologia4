@@ -10,4 +10,4 @@
 | :--- | :---: | :---: | :---: | ---: |
 | https://lix.li/Kjcdc | https://lix.li/IcyRE | https://lix.li/G8E7g | https://lix.li/HkE5T | https://lix.li/TI0VH |
 
-La asignatura de Tecnologia consiste en aprender sobre diferentes campos como 
+La asignatura de Tecnología consiste en aprender sobre la electrónica , informática etc . Para ello hacemos actividades y proyectos para hacer lo que el profesor explica en clase para después redactarlo aquí en el cuaderno.
