@@ -10,4 +10,4 @@
 | :--- | :---: | :---: | :---: | ---: |
 | https://lix.li/Kjcdc | https://lix.li/IcyRE | https://lix.li/G8E7g | https://lix.li/HkE5T | https://lix.li/TI0VH |
 
-(Acabar esto)
+La asignatura de Tecnologia consiste en aprender sobre diferentes campos como 
