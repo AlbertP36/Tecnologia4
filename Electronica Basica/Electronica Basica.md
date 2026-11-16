@@ -33,5 +33,6 @@ El potenciómetro es un componente electrónico que permite aumentar o disminuir
 # Condensador 
 
 El condensador es un componente electrónico que almacena energía eléctrica en forma de campo eléctrico y puede liberarla cuando sea necesario. Está formado por dos placas metálicas conductoras separadas por un material aislante llamado dieléctrico. Cuando se conecta a una fuente de alimentación, una de las placas acumula cargas positivas y la otra cargas negativas, creando una diferencia de potencial entre ellas. Su capacidad para almacenar carga se mide en faradios . Su símbolo en un diagrama es el de dos líneas paralelas separadas entre sí. Los condensadores se pueden usar, por ejemplo, para almacenar energía temporalmente haciendo que por ejemplo un LED se apague lentamente , estabilizar la tensión de un circuito o ayudar al funcionamiento de motores eléctricos.
+También hicimos una practica donde el teníamos cuanto tardaba un diodo Led en apagarse completamente : El mío tardo mas o menos 3,20 segundos
 
 <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/65ed7001-51c3-4aba-8d40-f7dff5add574" />
