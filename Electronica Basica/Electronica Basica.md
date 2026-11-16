@@ -36,3 +36,12 @@ El condensador es un componente electrónico que almacena energía eléctrica en
 También hicimos una practica donde el teníamos cuanto tardaba un diodo Led en apagarse completamente : El mío tardo mas o menos 3,20 segundos
 
 <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/65ed7001-51c3-4aba-8d40-f7dff5add574" />
+
+# Diodo 
+
+El diodo es un componente electrónico que permite el paso de la corriente eléctrica en un solo sentido y bloquea su paso en el sentido contrario. Está formado por dos partes llamadas ánodo y cátodo, que permiten controlar la dirección de la corriente. Cuando se conecta correctamente, la corriente puede circular a través de él, pero si se conecta al revés, impide su paso. Su símbolo en un diagrama es una flecha triangular que apunta hacia una línea vertical. Los diodos se pueden usar, por ejemplo, para convertir corriente alterna en corriente continua, proteger los circuitos electrónicos de conexiones incorrectas o permitir que un LED emita luz.
+
+<img width="998" height="562" alt="image" src="https://github.com/user-attachments/assets/632822f3-ae2c-4b8e-8f01-87444bb84500" />
+
+# LED
+
