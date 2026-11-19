@@ -35,25 +35,25 @@ El potenciómetro es un componente electrónico que permite aumentar o disminuir
 El condensador es un componente electrónico que almacena energía eléctrica en forma de campo eléctrico y puede liberarla cuando sea necesario. Está formado por dos placas metálicas conductoras separadas por un material aislante llamado dieléctrico. Cuando se conecta a una fuente de alimentación, una de las placas acumula cargas positivas y la otra cargas negativas, creando una diferencia de potencial entre ellas. Su capacidad para almacenar carga se mide en faradios . Su símbolo en un diagrama es el de dos líneas paralelas separadas entre sí. Los condensadores se pueden usar, por ejemplo, para almacenar energía temporalmente haciendo que por ejemplo un LED se apague lentamente , estabilizar la tensión de un circuito o ayudar al funcionamiento de motores eléctricos.
 También hicimos una practica donde el teníamos cuanto tardaba un diodo Led en apagarse completamente : El mío tardo mas o menos 3,20 segundos
 
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/65ed7001-51c3-4aba-8d40-f7dff5add574" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/65ed7001-51c3-4aba-8d40-f7dff5add574" />
 
 # Diodo 
 
 El diodo es un componente electrónico que permite el paso de la corriente eléctrica en un solo sentido y bloquea su paso en el sentido contrario. Está formado por dos partes llamadas ánodo y cátodo, que permiten controlar la dirección de la corriente. Cuando se conecta correctamente, la corriente puede circular a través de él, pero si se conecta al revés, impide su paso. Su símbolo en un diagrama es una flecha triangular que apunta hacia una línea vertical. Los diodos se pueden usar, por ejemplo, para convertir corriente alterna en corriente continua, proteger los circuitos electrónicos de conexiones incorrectas o permitir que un LED emita luz.
 
-<img width="998" height="562" alt="image" src="https://github.com/user-attachments/assets/632822f3-ae2c-4b8e-8f01-87444bb84500" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/632822f3-ae2c-4b8e-8f01-87444bb84500" />
 
 # Diodo LED
 
 El diodo LED es un componente electrónico que permite el paso de la corriente eléctrica en un solo sentido y, al hacerlo, emite luz. Está formado por dos partes llamadas ánodo y cátodo, que permiten controlar la dirección de la corriente. Cuando se conecta correctamente, la corriente circula a través de él y se ilumina, pero si se conecta al revés, no emite luz. Su símbolo en un diagrama es parecido al de un diodo normal, pero con dos pequeñas flechas que salen hacia fuera para representar la luz que emite. Los diodos LED se pueden usar, por ejemplo, para iluminar habitaciones, indicar si un aparato está encendido, formar pantallas luminosas o crear señales de aviso en diferentes dispositivos electrónicos.
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/197ad55e-ee99-4855-86ab-b79c187757e5" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/197ad55e-ee99-4855-86ab-b79c187757e5" />
 
 # Transistores 
 
 El transistor es un componente electrónico que permite controlar el paso de la corriente eléctrica y puede funcionar como interruptor o amplificador de señales. Está formado por tres partes llamadas base, colector y emisor, que permiten regular el funcionamiento de la corriente. Cuando recibe una pequeña corriente o señal en la base, puede controlar una corriente mayor que circula entre el colector y el emisor. De esta manera, puede dejar pasar o interrumpir la corriente eléctrica según cómo esté conectado y la señal que reciba. Su símbolo en un diagrama está formado por tres conexiones, que representan la base, el colector y el emisor, y una flecha que indica el sentido de la corriente en el emisor. Los transistores se pueden usar, por ejemplo, para encender y apagar dispositivos electrónicos, aumentar el volumen de los sonidos, controlar motores, procesar señales y formar parte de ordenadores, teléfonos móviles y muchos otros aparatos electrónicos.
 
-<img width="1237" height="1237" alt="image" src="https://github.com/user-attachments/assets/606377dd-e9e7-4a02-932d-0d34872d494b" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/606377dd-e9e7-4a02-932d-0d34872d494b" />
 
 En clase hemos hecho una practica que consiste en medir de que clase era nuestro transistor usando el polímetro , el mío era: NPN y tenia un valor máximo de 22 , el colector era el izquierdo el base era el central y el emisor era el derecho.
 
