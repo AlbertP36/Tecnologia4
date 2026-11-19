@@ -56,3 +56,6 @@ El transistor es un componente electrónico que permite controlar el paso de la 
 <img width="1237" height="1237" alt="image" src="https://github.com/user-attachments/assets/606377dd-e9e7-4a02-932d-0d34872d494b" />
 
 En clase hemos hecho una practica que consiste en medir de que clase era nuestro transistor usando el polímetro , el mío era: NPN y tenia un valor máximo de 22 , el colector era el izquierdo el base era el central y el emisor era el derecho.
+
+# Relés
+
