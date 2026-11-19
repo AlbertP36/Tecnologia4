@@ -43,7 +43,7 @@ El diodo es un componente electrónico que permite el paso de la corriente eléc
 
 <img width="998" height="562" alt="image" src="https://github.com/user-attachments/assets/632822f3-ae2c-4b8e-8f01-87444bb84500" />
 
-# LED
+# Diodo LED
 
 El diodo LED es un componente electrónico que permite el paso de la corriente eléctrica en un solo sentido y, al hacerlo, emite luz. Está formado por dos partes llamadas ánodo y cátodo, que permiten controlar la dirección de la corriente. Cuando se conecta correctamente, la corriente circula a través de él y se ilumina, pero si se conecta al revés, no emite luz. Su símbolo en un diagrama es parecido al de un diodo normal, pero con dos pequeñas flechas que salen hacia fuera para representar la luz que emite. Los diodos LED se pueden usar, por ejemplo, para iluminar habitaciones, indicar si un aparato está encendido, formar pantallas luminosas o crear señales de aviso en diferentes dispositivos electrónicos.
 
